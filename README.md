@@ -1,4 +1,4 @@
-# Random Collab
+# Learning How To Collaborate On GitHub
 
 This is a test collaboration to learn how to collab on github
 
